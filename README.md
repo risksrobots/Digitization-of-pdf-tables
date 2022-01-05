@@ -27,5 +27,5 @@
 
 ## :shipit: Контакты
 **Telegram** @niii_chel_angelo    
-**ВКонтакте**[niii_popova](https://vk.com/niii_popova)    
+**ВКонтакте** [niii_popova](https://vk.com/niii_popova)    
 **Email** PopovaNinaM@yandex.ru    
