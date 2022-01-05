@@ -23,6 +23,8 @@
 > pip install tabula-py 
 > pip install pandas 
 
+Рабочие версии библиотек прописаны в файле "requirements.txt" 
+
 ## :shipit: Контакты
 **Telegram** @niii_chel_angelo
 **ВКонтакте**[niii_popova](https://vk.com/niii_popova)
