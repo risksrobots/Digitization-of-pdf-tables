@@ -20,7 +20,7 @@
 
 Для настройки необходимых пакетов python для скрипта введите в командной строке:
 
-> pip install tabula-py 
+> pip install tabula-py    
 > pip install pandas 
 
 Рабочие версии библиотек прописаны в файле "requirements.txt" 
