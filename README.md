@@ -16,14 +16,13 @@
 * [Документация по работе с библиотекой Tabula](https://tabula-py.readthedocs.io/en/latest/tabula.html)
 * [Документация по работе с библиотекой Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
-## Зависимости
+## Установка
 
 Для настройки необходимых пакетов python для скрипта введите в командной строке:
 
-> pip install tabula-py    
-> pip install pandas 
+> pip install -r "requirements.txt"
 
-Рабочие версии библиотек прописаны в файле "requirements.txt" 
+
 
 ## :shipit: Контакты
 **Telegram** @niii_chel_angelo    
